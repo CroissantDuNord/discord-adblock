@@ -24,3 +24,7 @@
 2. Copy in paste [this](exemple.com) the Custom CSS
 3. Done 🎉
 
+## Issues
+
+You can report issues, in the issues tab
+
