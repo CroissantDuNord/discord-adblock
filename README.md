@@ -21,7 +21,7 @@
 ⚠ You need a custom client (Like [BetterDiscord](https://betterdiscord.app/)) with custom css capability
 
 1. Open the CustomCSS Tab in the discord user settings
-2. Copy in paste [this](exemple.com) the Custom CSS
+2. Copy in paste [this](https://raw.githubusercontent.com/CroissantDuNord/discord-adblock/main/adblock.css) the Custom CSS
 3. Done 🎉
 
 ## Issues
