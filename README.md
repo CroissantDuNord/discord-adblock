@@ -12,6 +12,7 @@
 - [x] Discord Nitro Ads in Homepage
 - [x] Discord Nitro Ads in Acitity
 - [x] Discord Nitro Ads in Invite Settings
+- [x] Gift Button
 - [ ] Discord Nitro Ads in Video Settings
 
 ![demo](https://github.com/CroissantDuNord/discord-adblock/blob/main/media/demo.png?raw=true)
