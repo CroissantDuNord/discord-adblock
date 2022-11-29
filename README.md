@@ -7,7 +7,7 @@
  
  ---
  
-- [x] Discord Nitro Ads in profile tab 
+- [x] Discord Nitro Ads in profile tab *Some elements are not blocked here, i cant block them with blocking ohter elrments*
 - [x] Discord Nitro Ads in settings
 - [x] Discord Nitro Ads in Homepage
 - [x] Discord Nitro Ads in Acitity
@@ -21,11 +21,18 @@
 
 ## Install Guide
 
-⚠ You need a custom client (Like [BetterDiscord](https://betterdiscord.app/)) with custom css capability
+You need a custom client (Like [BetterDiscord](https://betterdiscord.app/)) with custom css capability
 
 1. Open the CustomCSS Tab in the discord user settings
 2. Copy in paste [this](https://raw.githubusercontent.com/CroissantDuNord/discord-adblock/main/adblock.css) into Custom CSS
+
+![image](https://user-images.githubusercontent.com/79372025/204670948-cde707d0-5489-4726-9f7e-a46edc8d6d19.png)
+
+
 3. Done 🎉
+
+
+****
 
 ## Issues
 
