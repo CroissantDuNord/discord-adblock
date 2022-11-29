@@ -7,7 +7,7 @@
  
  ---
  
-- [x] Discord Nitro Ads in profile tab *Some elements are not blocked here, i cant block them with blocking ohter elrments*
+- [x] Discord Nitro Ads in profile tab *Some elements are not blocked here, i cant block them without blocking ohter elrments*
 - [x] Discord Nitro Ads in settings
 - [x] Discord Nitro Ads in Homepage
 - [x] Discord Nitro Ads in Acitity
