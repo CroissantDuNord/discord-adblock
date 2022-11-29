@@ -1,31 +1,31 @@
-/* Hide the nitro tab in the homepage */ 
-li.channel-1Shao0:nth-child(3) > div:nth-child(1) {
-  display: none;
-}
-
-/* Hide the nitro tab in settings */ 
-.premiumTab-39eQzY {
+  /* Hide the nitro tab in the homepage */ 
+  li.channel-1Shao0:nth-child(3) {
     display: none;
-}
+  }
 
-/* Hide the nitro ad in the server boost*/
-.content-2t8mBc > div:nth-child(11), .tier0Container-3pQqp9, .wrapper-2-Da9H, .subscribeAction-1tjck2 {
+  /* Hide the nitro tab in settings */ 
+  .premiumTab-39eQzY {
+      display: none;
+  }
+
+  /* Hide the nitro ad in the server boost*/
+  .content-2t8mBc > div:nth-child(11), .tier0Container-3pQqp9, .wrapper-2-Da9H, .subscribeAction-1tjck2 {
+      display: none;
+  }
+
+  /* Hide the nitro ad in the profil tab */   
+  .premiumFeatureBorder-3vL7bn, .upsellContainer-TwfTaF, div.customizationSection-IGy2fS:nth-child(5), div.customizationSection-IGy2fS:nth-child(6) {
+      display: none;
+  }
+
+  /*  Hide gift button*/
+
+  .buttons-uaqb-5 > button:nth-child(1) > div:nth-child(1) > div:nth-child(1) > svg:nth-child(1) > path:nth-child(1) { 
     display: none;
-}
+  }
 
-/* Hide the nitro ad in the profil tab */   
-.background-3N0xBT, .premiumFeatureBorder-3vL7bn, .bannerNitroUpsell-23OMvY, div.optionBox-1UOevl:nth-child(2), .upsellContainer-TwfTaF, div.customizationSection-IGy2fS:nth-child(3), div.disabled-32c3US:nth-child(4), div.customizationSection-IGy2fS:nth-child(5), div.customizationSection-IGy2fS:nth-child(6){
-    display: none;
-}
-
-/*  Hide gift button*/
-
-.buttons-uaqb-5 > button:nth-child(1) > div:nth-child(1) > div:nth-child(1) > svg:nth-child(1) > path:nth-child(1) { 
-  display: none;
-}
-
-/* Hide nitro ad invite  */
-div.flex-2S1XBF:nth-child(4) {
-  display: none; 
-}
+  /* Hide nitro ad invite  */
+  div.flex-2S1XBF:nth-child(4) {
+    display: none; 
+  }
 
