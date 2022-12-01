@@ -7,16 +7,21 @@
  
  ---
  
-- [x] Discord Nitro Ads in profile tab *Some elements are not blocked here, i cant block them without blocking ohter elrments*
-- [x] Discord Nitro Ads in settings
+&nbsp;
+ 
+- [x] Discord Nitro Ads in Profile tab *Some elements are not blocked here, i cant block them without blocking ohter elrments*
+- [x] Discord Nitro Ads in Settings
 - [x] Discord Nitro Ads in Homepage
 - [x] Discord Nitro Ads in Acitity
 - [x] Discord Nitro Ads in Invite Settings
+- [x] Discord Nitro Ads in Video Settings
 - [x] Gift Button
-- [ ] Discord Nitro Ads in Video Settings
+
+&nbsp;
 
 ![demo](https://github.com/CroissantDuNord/discord-adblock/blob/main/media/demo.png?raw=true)
 
+&nbsp;
 ---
 
 ## Install Guide
