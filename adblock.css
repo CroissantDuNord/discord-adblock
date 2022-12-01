@@ -29,3 +29,14 @@
     display: none; 
   }
 
+
+ /* Hide nitro ad in screen share settings */
+  div.appDevToolsWrapper-1QxdQf > div > div:nth-child(3) > div.layer-1Ixpg3 > div > div > form > div:nth-child(2) > div > div > div:nth-child(4) > div > div.upsellBanner-1tVKtW.gradientBackground-MytxDL {
+   display: none;
+ }
+
+ /* Hide nitro ad in activity selector */
+  div.appDevToolsWrapper-1QxdQf > div > div:nth-child(3) > div.layer-1Ixpg3 > div > div > div:nth-child(5) > div > div > div > div.scroller-3oxliS.thin-31rlnD.scrollerBase-_bVAAt > div:nth-child(2) {
+    display: none;
+  }
+
