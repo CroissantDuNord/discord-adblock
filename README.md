@@ -21,8 +21,6 @@
 
 &nbsp;
 
-![demo](https://github.com/CroissantDuNord/discord-adblock/blob/main/media/demo.png?raw=true)
-
 &nbsp;
 ---
 
