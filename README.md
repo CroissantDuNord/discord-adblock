@@ -7,6 +7,8 @@
  
  ---
  
+ [<img src="https://img.shields.io/badge/CustomCSS-Click-%3CCOLOR%3E" width="140"/>](https://raw.githubusercontent.com/CroissantDuNord/discord-adblock/main/adblock.css)
+ 
 &nbsp;
  
 - [x] Discord Nitro Ads in Profile tab *Some elements are not blocked here, i cant block them without blocking ohter elrments*
