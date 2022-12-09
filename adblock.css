@@ -14,7 +14,7 @@
   }
 
   /* Hide the nitro ad in the profil tab */   
-  .premiumFeatureBorder-3vL7bn, .upsellContainer-TwfTaF, div.customizationSection-IGy2fS:nth-child(5), div.customizationSection-IGy2fS:nth-child(6) {
+  .limitedFeatureBorder-hpm0GQ, .premiumFeatureBorder-1i95si, html.theme-custom.reduce-motion.disable-forced-colors.theme-dark.platform-web.font-size-16 body div#app-mount.appMount-2yBXZl div.appDevToolsWrapper-1QxdQf div.notDevTools-1zkgfK div.app-3xd6d0 div.app-2CXKsg div.layers-OrUESM.layers-1YQhyW div.layer-86YKbF div.standardSidebarView-E9Pc3j div.contentRegion-3HkfJJ div.contentTransitionWrap-1YD530 div.contentRegionScroller-2_GT_N.contentRegionShownSidebar-fHXkEg.auto-2K3UW5.scrollerBase-_bVAAt div#profile-customization-tab.contentColumn-1C7as6.contentColumnWide-2CgNjO div div.profileCustomizationSection-53kreU div.baseLayoutProfileThemes-1Jj-oN div.customizationSection-IGy2fS.previewProfileThemes-ViDDkq div.userPopoutOuter-3AVBmJ.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv.profileColors-3Y0XaR.theme-dark.default-colors.profileCustomizationPreviewWithoutTheme-2OWKhI.profileCustomizationPreview-2-Y173 div.userPopoutInner-1hXSeY.userProfileInner-3F03PX.userProfileInnerThemedNonPremium-1gT-zY svg.bannerSVGWrapper-qc0szY foreignObject div.bannerNormal-3x32Xe.banner-1rJmju div.bannerNitroUpsell-23OMvY, .upsellContainer-TwfTaF {
       display: none;
   }
 
@@ -35,8 +35,7 @@
    display: none;
  }
 
- /* Hide nitro ad in activity selector */
+/* Hide nitro ad in activity selector */
   div.appDevToolsWrapper-1QxdQf > div > div:nth-child(3) > div.layer-1Ixpg3 > div > div > div:nth-child(5) > div > div > div > div.scroller-3oxliS.thin-31rlnD.scrollerBase-_bVAAt > div:nth-child(2) {
     display: none;
   }
-
