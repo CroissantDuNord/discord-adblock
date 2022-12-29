@@ -7,10 +7,12 @@
  
  ---
  
- [<img src="https://img.shields.io/badge/CustomCSS-Click-%3CCOLOR%3E" width="140"/>](https://raw.githubusercontent.com/CroissantDuNord/discord-adblock/main/adblock.css)
- 
-&nbsp;
- 
+[<img src="https://raw.githubusercontent.com/CroissantDuNord/discord-adblock/b5d13db617b5f7457d8ee454eaf83e07865cfbcd/media/jksdqfhjkldh.svg" width="180">](https://raw.githubusercontent.com/CroissantDuNord/discord-adblock/main/adblock.css)
+
+*Click on the badge to view the customCSS*
+
+---
+
 - [x] Discord Nitro Ads in Profile tab *Some elements are not blocked here, i cant block them without blocking ohter elrments*
 - [x] Discord Nitro Ads in Settings
 - [x] Discord Nitro Ads in Homepage
@@ -19,9 +21,6 @@
 - [x] Discord Nitro Ads in Video Settings
 - [x] Gift Button
 
-&nbsp;
-
-&nbsp;
 ---
 
 ## Install Guide
