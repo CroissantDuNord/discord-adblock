@@ -20,7 +20,7 @@
 - [x] Discord Nitro Ads in Invite Settings
 - [x] Discord Nitro Ads in Video Settings
 - [x] Gift Button
-
+- [x] Super Reaction
 ---
 
 ## Install Guide
