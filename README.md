@@ -24,7 +24,7 @@
 - [x] Sticker Tab (Not blocked by default [check this](https://github.com/CroissantDuNord/discord-adblock/issues/2))
 ---
 
-## Install Guide
+##❓ Installation Guide
 
 You need a custom client (Like [BetterDiscord](https://betterdiscord.app/) or [Vencord](https://vencord.dev)) with custom css capability
 
@@ -36,10 +36,9 @@ You need a custom client (Like [BetterDiscord](https://betterdiscord.app/) or [V
 
 3. Done 🎉
 
-
 ****
 
-## Issues
+## Issues / Idea
 
-You can report issues, in the issues tab
+You can report your issues / idea, in the issues tab
 
