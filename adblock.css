@@ -39,3 +39,23 @@
   div.appDevToolsWrapper-1QxdQf > div > div:nth-child(3) > div.layer-1Ixpg3 > div > div > div:nth-child(5) > div > div > div > div.scroller-3oxliS.thin-31rlnD.scrollerBase-_bVAAt > div:nth-child(2) {
     display: none;
   }
+
+/* Remove the "overlay / edit" in the profile settings */
+#profile-customization-tab > div:nth-child(3) > div > div > div.sectionsContainer-3BlPu4 > div.customizationSection-IGy2fS.showBorder-2hbqaq > div {
+  display: none;
+}
+
+/* Remove new crap in the profile settings */
+#profile-customization-tab > div:nth-child(5) > div > div > div.sectionsContainer-2dM0sg > div.upsellOverlayContainer-3NMgTS {
+  display: none;
+}
+
+/* Remove Nitro Sticker Warning */
+#sticker-picker-tab-panel > div.upsellWrapper-3KE9GX {
+    display: none;
+}
+
+/* Remove Super Reaction */
+[id^="chat-messages-"] > div > div.buttonContainer-1502pf > div > div > div:nth-child(2) {
+    display: none;
+}
