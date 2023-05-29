@@ -20,7 +20,7 @@
 
   /*  Hide gift button*/
 
-  .buttons-uaqb-5 > button:nth-child(1) > div:nth-child(1) > div:nth-child(1) > svg:nth-child(1) > path:nth-child(1) { 
+  .buttons-uaqb-5 > .grow-2T4nbg.colorBrand-2M3O3N.lookBlank-FgPMy6.button-ejjZWC { 
     display: none;
   }
 
