@@ -4,6 +4,9 @@
 <h1 align="center">Discord adblock</h1>
 <h3 align="center">The ads for discord nitro bother you, you can now delete them</h3>
 </p>
+
+> ⚠️ Im working on OpenTCG (**Physicial port of "Genius Invokation" from "Genshin Impact©"**), Im not active on Discord Ad-Block, but as of now this filter is working, Please report any issue to
+> me, as this project is easy to mantain
  
  ---
  
