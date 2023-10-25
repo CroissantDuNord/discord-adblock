@@ -1,61 +1,75 @@
-  /* Hide the nitro tab in the homepage */ 
-  li.channel-1Shao0:nth-child(3) {
-    display: none;
-  }
-
-  /* Hide the nitro tab in settings */ 
-  .premiumTab-39eQzY {
-      display: none;
-  }
-
-  /* Hide the nitro ad in the server boost*/
-  .content-2t8mBc > div:nth-child(11), .tier0Container-3pQqp9, .wrapper-2-Da9H, .subscribeAction-1tjck2 {
-      display: none;
-  }
-
-  /* Hide the nitro ad in the profil tab */   
-  .limitedFeatureBorder-hpm0GQ, .premiumFeatureBorder-1i95si, html.theme-custom.reduce-motion.disable-forced-colors.theme-dark.platform-web.font-size-16 body div#app-mount.appMount-2yBXZl div.appDevToolsWrapper-1QxdQf div.notDevTools-1zkgfK div.app-3xd6d0 div.app-2CXKsg div.layers-OrUESM.layers-1YQhyW div.layer-86YKbF div.standardSidebarView-E9Pc3j div.contentRegion-3HkfJJ div.contentTransitionWrap-1YD530 div.contentRegionScroller-2_GT_N.contentRegionShownSidebar-fHXkEg.auto-2K3UW5.scrollerBase-_bVAAt div#profile-customization-tab.contentColumn-1C7as6.contentColumnWide-2CgNjO div div.profileCustomizationSection-53kreU div.baseLayoutProfileThemes-1Jj-oN div.customizationSection-IGy2fS.previewProfileThemes-ViDDkq div.userPopoutOuter-3AVBmJ.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv.profileColors-3Y0XaR.theme-dark.default-colors.profileCustomizationPreviewWithoutTheme-2OWKhI.profileCustomizationPreview-2-Y173 div.userPopoutInner-1hXSeY.userProfileInner-3F03PX.userProfileInnerThemedNonPremium-1gT-zY svg.bannerSVGWrapper-qc0szY foreignObject div.bannerNormal-3x32Xe.banner-1rJmju div.bannerNitroUpsell-23OMvY, .upsellContainer-TwfTaF {
-      display: none;
-  }
-
-  /*  Hide gift button*/
-
-  .buttons-uaqb-5 > .grow-2T4nbg.colorBrand-2M3O3N.lookBlank-FgPMy6.button-ejjZWC { 
-    display: none;
-  }
-
-  /* Hide nitro ad invite  */
-  div.flex-2S1XBF:nth-child(4) {
-    display: none; 
-  }
-
-
- /* Hide nitro ad in screen share settings */
-  div.appDevToolsWrapper-1QxdQf > div > div:nth-child(3) > div.layer-1Ixpg3 > div > div > form > div:nth-child(2) > div > div > div:nth-child(4) > div > div.upsellBanner-1tVKtW.gradientBackground-MytxDL {
-   display: none;
- }
-
-/* Hide nitro ad in activity selector */
-  div.appDevToolsWrapper-1QxdQf > div > div:nth-child(3) > div.layer-1Ixpg3 > div > div > div:nth-child(5) > div > div > div > div.scroller-3oxliS.thin-31rlnD.scrollerBase-_bVAAt > div:nth-child(2) {
-    display: none;
-  }
-
-/* Remove the "overlay / edit" in the profile settings */
-#profile-customization-tab > div:nth-child(3) > div > div > div.sectionsContainer-3BlPu4 > div.customizationSection-IGy2fS.showBorder-2hbqaq > div {
-  display: none;
+#appearance-tab > div > div.children_b15c64 > div:nth-child(2) > div.selectionGroup__36139 {
+    display: none
 }
 
-/* Remove new crap in the profile settings */
-#profile-customization-tab > div:nth-child(5) > div > div > div.sectionsContainer-2dM0sg > div.upsellOverlayContainer-3NMgTS {
-  display: none;
+#appearance-tab > div > div.children_b15c64 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div {
+    display: none
 }
 
-/* Remove Nitro Sticker Warning */
-#sticker-picker-tab-panel > div.upsellWrapper-3KE9GX {
-    display: none;
+#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers_a40797.layers__12c9f > div:nth-child(2) > div > div.sidebarRegion__60457 > div > nav > div > div.premiumTab__57bdc.item__48dda.themed_b957e8 {
+    display: none
 }
 
-/* Remove Super Reaction */
-[id^="chat-messages-"] > div > div.buttonContainer-1502pf > div > div > div:nth-child(2) {
-    display: none;
+#profile-customization-tab > div.container_d6bff4.containerDefaultMargin_dcee92.shopForAllBackgroundImage__009d9 {
+    display: none
+}
+
+#profile-customization-tab > div:nth-child(4) > div > div > div.sectionsContainer_a37883 > div.customizationSection__16fec.showBorder__9e03d {
+    display: none
+}
+
+#profile-customization-tab > div.premiumFeatureBorder__9bbb3.featureBorder_a44f20.tryItOutSection__0f9fb {
+    display: none
+}
+
+#nitro-server-boost-tab > div > div.content_e96fa0 > div > div.wrapper__8c346 {
+    display: none
+}
+
+#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers_a40797.layers__12c9f > div:nth-child(2) > div > div.sidebarRegion__60457 > div > nav > div > div:nth-child(33) {
+    display: none
+}
+
+#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers_a40797.layers__12c9f > div:nth-child(2) > div > div.sidebarRegion__60457 > div > nav > div > div.item__48dda.selected__5711d.themed_b957e8 {
+    display: none
+}
+
+#profile-customization-tab > div:nth-child(5) > div > div > div.sectionsContainer_cce45e > div.upsellOverlayContainer__08979 {
+    display: none
+}
+
+#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers_a40797.layers__12c9f > div > div > div > div > div.sidebar_ded4b5 > nav > div.container__7c79d.clickable__2d589 > header > div > div.guildIconV2Container__53cdb {
+    display: none
+}
+
+#channels > ul > div.container__4f639.containerWithMargin__7d380 {
+    display: none
+}
+
+#message-accessories-944968840993972334 > div > div.content_cd557a > div > div.flex_f5fbb7.vertical__1e37a.justifyCenter__4080c.alignStretch_e239ef.noWrap__5c413.guildInfo__0e8f5 > div > h3 > span > span {
+    display: none
+}
+
+#guild-header-popout > div > div:nth-child(1), #guild-header-popout > div > div:nth-child(2) {
+    display: none
+}
+
+#emoji-picker-tab-panel > div.emojiPicker_b65ce9 > div.premiumPromo__2d678 {
+    display: none
+}
+
+#sticker-picker-tab-panel > div.upsellWrapper_d04266 {
+    display: none
+}
+
+#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers_a40797.layers__12c9f > div > div > div > div > div > nav > div.scroller__4b984.thin_b1c063.scrollerBase_dc3aa9.fade_ba0fa0 > ul > li:nth-child(3) {
+    display: none
+}
+
+#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers_a40797.layers__12c9f > div > div > div > div > div > nav > div.scroller__4b984.thin_b1c063.scrollerBase_dc3aa9.fade_ba0fa0 > ul > li:nth-child(4) {
+    display: none
+}
+
+#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers_a40797.layers__12c9f > div > div > div > div > div.chat__52833 > div.content__1a4fe > div > div.chatContainer__23434 > main > form > div > div.scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a > div > div.buttons_ce5b56 > button {
+    display: none
 }
