@@ -20,15 +20,18 @@
 - [x] Gift Button
 - [x] Server Boost
 - [x] Emote Picker / Sticker Picker
+
 ---
 
-##❓ Installation Guide
+## ❓ Installation Guide
 
 You need a custom client (Like [BetterDiscord](https://betterdiscord.app/) or [Vencord (Recomended)](https://vencord.dev)) with custom css capability
-*BetterDiscord:*
+
+- **BetterDiscord:**
 Open the CustomCSS Tab in the user settings
-*Vencord:*
+- **Vencord:**
 Open the Vecord Tab in the user settings, click open QuickCSS File
+
 2. Copy & Paste [this file](https://raw.githubusercontent.com/CroissantDuNord/discord-adblock/main/adblock.css) into the Custom CSS input
 3. Done 🎉
 
