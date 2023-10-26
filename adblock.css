@@ -73,3 +73,15 @@
 #app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers_a40797.layers__12c9f > div > div > div > div > div.chat__52833 > div.content__1a4fe > div > div.chatContainer__23434 > main > form > div > div.scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a > div > div.buttons_ce5b56 > button.button_afdfd9 {
     display: none
 }
+
+#message-add-reaction-1 {
+  display: none;
+}
+
+#message-actions-add-reaction-1 {
+    display: none;
+}
+
+#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers_a40797.layers__12c9f > div > div > div > div > div.chat__52833 > div.content__1a4fe > div > div.chatContainer__23434 > main > div.messagesWrapper_ea2b0b.group-spacing-0 > div > div.scrollerContent_c73942.content__23cab > ol > li > div > div.buttonContainer_dd4b62 > .container__9d616.buttons__3766a > .wrapper_c727b6.buttonsInner_bca8fa > div.button_d553e5:nth-of-type(2) {
+    display: none
+}
