@@ -1,75 +1,85 @@
-#appearance-tab > div > div.children_b15c64 > div:nth-child(2) > div.selectionGroup__36139 {
+/* Chat view blocks */
+/* Nitro tab */
+#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div.app_de4237 > div.layers__1c917.layers_a23c37 > div.layer__2efaa.baseLayer__8fda3 > div.container__037ed > div.base__3e6af > div.content__4bf10 > div.sidebar_ded4b5 > nav > div.scroller__4b984.thin_b1c063.scrollerBase_dc3aa9.fade_ba0fa0 > ul.content__23cab > li.channel_c21703.container__8759a:nth-of-type(2) {
+    display: none;
+}
+
+/* Store tab */
+#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div.app_de4237 > div.layers__1c917.layers_a23c37 > div.layer__2efaa.baseLayer__8fda3 > div.container__037ed > div.base__3e6af > div.content__4bf10 > div.sidebar_ded4b5 > nav > div.scroller__4b984.thin_b1c063.scrollerBase_dc3aa9.fade_ba0fa0 > ul.content__23cab > li.channel_c21703.container__8759a:nth-of-type(3) {
+    display: none;
+}
+
+/* Gift button */
+#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers__1c917.layers_a23c37 > div > div > div > div > div.chat__52833 > div.content__1a4fe > div > div.chatContainer__23434 > main > form > div > div.scrollableContainer__33e06.themedBackground__6b1b6 > div > div.buttons_ce5b56 > button.button_afdfd9 {
     display: none
 }
 
-#appearance-tab > div > div.children_b15c64 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div {
+/* Super reactions */
+#message-add-reaction-1 {
+    display: none
+}
+#message-actions-add-reaction-1 {
+    display: none
+}
+#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div.app_de4237 > div.layers__1c917.layers_a23c37 > div > div > div > div > div.chat__52833 > div.content__1a4fe > div > div.chatContainer__23434 > main > div.messagesWrapper_ea2b0b.group-spacing-0 > div > div.scrollerContent_c73942.content__23cab > ol > li > div > div.buttonContainer_dd4b62 > div.buttons__3766a.container__9d616 > div.buttonsInner_bca8fa.wrapper_c727b6 > div.button_d553e5:nth-of-type(2) {
     display: none
 }
 
-#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers_a40797.layers__12c9f > div:nth-child(2) > div > div.sidebarRegion__60457 > div > nav > div > div.premiumTab__57bdc.item__48dda.themed_b957e8 {
+/* Settings blocking */
+/* Falloween ad */
+#profile-customization-tab > div.container_d6bff4.containerDefaultMargin_dcee92.falloweenBackgroundImage__7e271 {
     display: none
 }
 
-#profile-customization-tab > div.container_d6bff4.containerDefaultMargin_dcee92.shopForAllBackgroundImage__009d9 {
+/* Avatar decoration settings */
+#profile-customization-tab > div > div.profileCustomizationSection__88eff > div.baseLayout_b00434 > div.sectionsContainer_a37883 > div.customizationSection__16fec:nth-of-type(4) {
     display: none
 }
 
+/* Profile effect settings */
 #profile-customization-tab > div:nth-child(4) > div > div > div.sectionsContainer_a37883 > div.customizationSection__16fec.showBorder__9e03d {
     display: none
 }
 
+/* "Try Nitro!" ad */
 #profile-customization-tab > div.premiumFeatureBorder__9bbb3.featureBorder_a44f20.tryItOutSection__0f9fb {
     display: none
 }
 
-#nitro-server-boost-tab > div > div.content_e96fa0 > div > div.wrapper__8c346 {
-    display: none
-}
-
-#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers_a40797.layers__12c9f > div:nth-child(2) > div > div.sidebarRegion__60457 > div > nav > div > div:nth-child(33) {
-    display: none
-}
-
-#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers_a40797.layers__12c9f > div:nth-child(2) > div > div.sidebarRegion__60457 > div > nav > div > div.item__48dda.selected__5711d.themed_b957e8 {
-    display: none
-}
-
+/* Per-server settings nitro ad */
 #profile-customization-tab > div:nth-child(5) > div > div > div.sectionsContainer_cce45e > div.upsellOverlayContainer__08979 {
     display: none
 }
 
-#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers_a40797.layers__12c9f > div > div > div > div > div.sidebar_ded4b5 > nav > div.container__7c79d.clickable__2d589 > header > div > div.guildIconV2Container__53cdb {
+/* Billing info sidebar */
+#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div > div:nth-child(2) > div > div.sidebarRegion__60457 > div > nav > div > div.premiumTab__57bdc.item__48dda.themed_b957e8 {
+    display: none
+}
+#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div > div > div.standardSidebarView__1129a > div.sidebarRegion__60457 > div.sidebarRegionScroller__1fa7e.thin_b1c063.scrollerBase_dc3aa9.fade_ba0fa0 > nav.sidebar__9e3e2 > div.side_b4b3f6 > div.separator_fdbcfd:nth-of-type(10) {
+    display: none
+}
+#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div > div > div.standardSidebarView__1129a > div.sidebarRegion__60457 > div.sidebarRegionScroller__1fa7e.thin_b1c063.scrollerBase_dc3aa9.fade_ba0fa0 > nav.sidebar__9e3e2 > div.side_b4b3f6 > div.header_f72511:nth-of-type(11) {
     display: none
 }
 
-#channels > ul > div.container__4f639.containerWithMargin__7d380 {
+#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div > div > div.standardSidebarView__1129a > div.sidebarRegion__60457 > div.sidebarRegionScroller__1fa7e.thin_b1c063.scrollerBase_dc3aa9.fade_ba0fa0 > nav.sidebar__9e3e2 > div.side_b4b3f6 > div.themed_b957e8.item__48dda:nth-of-type(13) {
     display: none
 }
 
-#message-accessories-944968840993972334 > div > div.content_cd557a > div > div.flex_f5fbb7.vertical__1e37a.justifyCenter__4080c.alignStretch_e239ef.noWrap__5c413.guildInfo__0e8f5 > div > h3 > span > span {
+#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div > div > div.standardSidebarView__1129a > div.sidebarRegion__60457 > div.sidebarRegionScroller__1fa7e.thin_b1c063.scrollerBase_dc3aa9.fade_ba0fa0 > nav.sidebar__9e3e2 > div.side_b4b3f6 > div.themed_b957e8.item__48dda:nth-of-type(14) {
     display: none
 }
 
+#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div > div > div.standardSidebarView__1129a > div.sidebarRegion__60457 > div.sidebarRegionScroller__1fa7e.thin_b1c063.scrollerBase_dc3aa9.fade_ba0fa0 > nav.sidebar__9e3e2 > div.side_b4b3f6 > div.themed_b957e8.item__48dda:nth-of-type(15) {
+    display: none
+}
+
+#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div > div > div.standardSidebarView__1129a > div.sidebarRegion__60457 > div.sidebarRegionScroller__1fa7e.thin_b1c063.scrollerBase_dc3aa9.fade_ba0fa0 > nav.sidebar__9e3e2 > div.side_b4b3f6 > div.themed_b957e8.item__48dda:nth-of-type(16) {
+    display: none
+}
+
+/* Guilds blocking */
+/* Server boost button */
 #guild-header-popout > div > div:nth-child(1), #guild-header-popout > div > div:nth-child(2) {
-    display: none
-}
-
-#emoji-picker-tab-panel > div.emojiPicker_b65ce9 > div.premiumPromo__2d678 {
-    display: none
-}
-
-#sticker-picker-tab-panel > div.upsellWrapper_d04266 {
-    display: none
-}
-
-#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers_a40797.layers__12c9f > div > div > div > div > div > nav > div.scroller__4b984.thin_b1c063.scrollerBase_dc3aa9.fade_ba0fa0 > ul > li:nth-child(3) {
-    display: none
-}
-
-#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers_a40797.layers__12c9f > div > div > div > div > div > nav > div.scroller__4b984.thin_b1c063.scrollerBase_dc3aa9.fade_ba0fa0 > ul > li:nth-child(4) {
-    display: none
-}
-
-#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers_a40797.layers__12c9f > div > div > div > div > div.chat__52833 > div.content__1a4fe > div > div.chatContainer__23434 > main > form > div > div.scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a > div > div.buttons_ce5b56 > button {
     display: none
 }
