@@ -10,8 +10,6 @@
 [<img src="https://raw.githubusercontent.com/CroissantDuNord/discord-adblock/b5d13db617b5f7457d8ee454eaf83e07865cfbcd/media/jksdqfhjkldh.svg" width="180">](https://raw.githubusercontent.com/CroissantDuNord/discord-adblock/main/adblock.css)
 [<img src="https://vencord.dev/assets/logo-nav-oneko-padding.png" width="180">](https://raw.githubusercontent.com/CroissantDuNord/discord-adblock/main/adblock.css)
 
-*⚠️ Click on the image to view the customCSS*
-
 ---
 ## 🛡️ Blocked Elements 
 - [x] Profile Tab (Server Profile Bloat, Profile Bloat)
@@ -20,22 +18,28 @@
 - [x] Gift Button
 - [x] Server Boost
 - [x] Emote Picker / Sticker Picker
+- [x] Shop
+- [x] Nitro Icon (Server)
+- [x] Super Reaction   
 
 ---
 
 ## ❓ Installation Guide
 
-You need a custom client (Like [BetterDiscord](https://betterdiscord.app/) or [Vencord (Recomended)](https://vencord.dev)) with custom css capability
+You need a Custom Client (Like [BetterDiscord](https://betterdiscord.app/) or [Vencord (Recomended)](https://vencord.dev))
 
 - **BetterDiscord:**
 Open the CustomCSS Tab in the user settings
 - **Vencord:**
-Open the Vecord Tab in the user settings, click open QuickCSS File
+In the Vencord section chose "Themes", then open the QuickCSS File
 
-2. Copy & Paste [this file](https://raw.githubusercontent.com/CroissantDuNord/discord-adblock/main/adblock.css) into the Custom CSS input
-3. Done 🎉
+2. Copy & Paste this css into the Custom CSS input *(This will load adblock.css from here, this mean that it will auto-update from this repo)*
+```css
+@import url(https://raw.githubusercontent.com/CroissantDuNord/discord-adblock/main/adblock.css);
+```
+![image](https://github.com/CroissantDuNord/discord-adblock/assets/79372025/a5cef664-6bf4-4740-bed7-b66a22b735dc)
 
-****
+3. Done, check the profile tab to see if there is no Ads 👍
 
 ## Issues / Idea
 
