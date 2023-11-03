@@ -6,6 +6,10 @@
 </p>
 
 ---
+
+```css
+@import url(https://raw.githubusercontent.com/CroissantDuNord/discord-adblock/main/adblock.css);
+```
  
 [<img src="https://raw.githubusercontent.com/CroissantDuNord/discord-adblock/b5d13db617b5f7457d8ee454eaf83e07865cfbcd/media/jksdqfhjkldh.svg" width="180">](https://raw.githubusercontent.com/CroissantDuNord/discord-adblock/main/adblock.css)
 [<img src="https://vencord.dev/assets/logo-nav-oneko-padding.png" width="180">](https://raw.githubusercontent.com/CroissantDuNord/discord-adblock/main/adblock.css)
