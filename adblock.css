@@ -101,3 +101,8 @@
 #app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers__1c917.layers_a23c37 > div > div > div > div > div.sidebar_ded4b5 > nav > div.container__7c79d.clickable__2d589.hasBanner_e78601.bannerVisible__191f6 > header > div > div.guildIconV2Container__53cdb {
     display: none
 }
+
+/* Profile Effect (Shop) */
+#profile-customization-tab > div:nth-child(4) > div > div > div.sectionsContainer_a37883 > div:nth-child(5) {
+    display: none
+}
