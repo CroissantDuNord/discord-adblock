@@ -25,7 +25,7 @@
 - [x] Shop
 - [x] Nitro Icon (Server)
 - [x] Super Reaction   
-
+- [x] Message Limit Warning (New AD)
 ---
 
 ## ❓ Installation Guide
