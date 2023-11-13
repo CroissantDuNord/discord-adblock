@@ -49,6 +49,18 @@
     display: none
 }
 
+/* App theme */
+#appearance-tab > div > div.children_b15c64 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div {
+    display: none
+}
+
+/* Icon Theme (just edit the .ico file) */
+#appearance-tab > div > div.children_b15c64 > div:nth-child(2) > div.selectionGroup__36139 {
+    display: none
+}
+
+
+
 /* Per-server settings nitro ad */
 #profile-customization-tab > div:nth-child(5) > div > div > div.sectionsContainer_cce45e > div.upsellOverlayContainer__08979 {
     display: none
@@ -106,3 +118,25 @@
 #profile-customization-tab > div:nth-child(4) > div > div > div.sectionsContainer_a37883 > div:nth-child(5) {
     display: none
 }
+
+
+/* Hide ads for to long message */
+
+#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div:nth-child(4) > div.layer_ad604d > div > div > div.content__764ce.content__24381.thin_b1c063.scrollerBase_dc3aa9 > div.contentContainer__3b9e6 > div.gradientUpsellWrapper__221ac.gradientUpsellWrapperTier2_d1df4c, #app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div:nth-child(4) > div.layer_ad604d > div > div > div.flex_f5fbb7.horizontalReverse_dc209c.justifyStart__42744.alignStretch_e239ef.noWrap__5c413.footer__89240.footer_c793da.footerSeparator__57d95 > div > button.shinyButton_fc8363.button_afdfd9.lookFilled__19298.colorGreen__5f181.sizeSmall__71a98.grow__4c8a4, #app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div:nth-child(4) > div.layer_ad604d > div > div > div.artContainer__56b19.artContainerBoxShadow__63ecb, #app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers__1c917.layers_a23c37 > div > div > div > div > div.chat__52833 > div.content__1a4fe > div > div.chatContainer__23434 > main > form > div > div.characterCount_e55010 > div.root__03160.upsell__54a69, #app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers__1c917.layers_a23c37 > div > div > div > div > div.chat__52833 > div.content__1a4fe > div > div.chatContainer__23434 > main > form > div > div.characterCount_e55010.error_c9623f > div.messageLengthUpsellContainer__32d48.messageLengthUpsellAppearAnimation__1ce4e > div.messageLengthBrandedContainer__84a34.gradientUpsellWrapper__221ac.gradientUpsellWrapperTier2_d1df4c,#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers__1c917.layers_a23c37 > div > div > div > div > div.chat__52833 > div.content__1a4fe > div > div.chatContainer__23434 > main > form > div > div.characterCount_e55010.error_c9623f > div.messageLengthUpsellContainer__32d48.messageLengthUpsellAppearAnimation__1ce4e > button, #app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers__1c917.layers_a23c37 > div > div > div > div > div.chat__52833 > div.content__1a4fe > div > div.chatContainer__23434 > main > form > div > div.characterCount_e55010.error_c9623f > div.messageLengthUpsellContainer__32d48.messageLengthUpsellAppearAnimation__1ce4e > div.divider_b97e44 {
+    display: none
+}
+
+
+/* Message limit warning smaller */
+.text-lg-bold_c9b12c, .heading-lg-extrabold_c29e62 {
+    font-size: 15px;
+}
+
+/* Re-center the text */
+.contentContainer__3b9e6 {
+    padding-top: 40px
+}
+
+
+
+
