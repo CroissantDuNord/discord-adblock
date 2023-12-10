@@ -8,12 +8,12 @@
 
 /* Chat view blocks */
 /* Nitro tab */
-[data-list-item-id="private-channels-uid_44___nitro"] {
+[data-list-item-id*="___nitro"] {
     display: none;
 }
 
 /* Store tab */
-[data-list-item-id="private-channels-uid_44___shop"] {
+[data-list-item-id*="___shop"] {
     display: none;
 }
 
