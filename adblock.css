@@ -1,3 +1,11 @@
+/* ==UserStyle==
+@name           discord.com - déc. 2023
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    A new userstyle
+@author         Me
+==/UserStyle== */
+
 /* Chat view blocks */
 /* Nitro tab */
 #app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div.app_de4237 > div.layers__1c917.layers_a23c37 > div.layer__2efaa.baseLayer__8fda3 > div.container__037ed > div.base__3e6af > div.content__4bf10 > div.sidebar_ded4b5 > nav > div.scroller__4b984.thin_b1c063.scrollerBase_dc3aa9.fade_ba0fa0 > ul.content__23cab > li.channel_c21703.container__8759a:nth-of-type(2) {
@@ -5,7 +13,7 @@
 }
 
 /* Store tab */
-#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div.app_de4237 > div.layers__1c917.layers_a23c37 > div.layer__2efaa.baseLayer__8fda3 > div.container__037ed > div.base__3e6af > div.content__4bf10 > div.sidebar_ded4b5 > nav > div.scroller__4b984.thin_b1c063.scrollerBase_dc3aa9.fade_ba0fa0 > ul.content__23cab > li.channel_c21703.container__8759a:nth-of-type(3) {
+#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div.app_de4237 > div.layers__1c917.layers_a23c37 > div.layer__2efaa.baseLayer__8fda3 > div.container__037ed > div.base__3e6af > div.content__4bf10 > div.sidebar_ded4b5 > nav > div.scroller__4b984.thin_b1c063.scrollerBase_dc3aa9.fade_ba0fa0 > ul.content__23cab > li.channel_c21703.container__8759a:nth-of-type(4) {
     display: none;
 }
 
@@ -80,7 +88,6 @@
 #app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div > div > div.standardSidebarView__1129a > div.sidebarRegion__60457 > div.sidebarRegionScroller__1fa7e.thin_b1c063.scrollerBase_dc3aa9.fade_ba0fa0 > nav.sidebar__9e3e2 > div.side_b4b3f6 > div.themed_b957e8.item__48dda:nth-of-type(13) {
     display: none
 }
-
 #app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div > div > div.standardSidebarView__1129a > div.sidebarRegion__60457 > div.sidebarRegionScroller__1fa7e.thin_b1c063.scrollerBase_dc3aa9.fade_ba0fa0 > nav.sidebar__9e3e2 > div.side_b4b3f6 > div.themed_b957e8.item__48dda:nth-of-type(14) {
     display: none
 }
@@ -100,7 +107,7 @@
 }
 
 /* Shop AD Profile */
-#profile-customization-tab > div.container_d6bff4.containerDefaultMargin_dcee92.shopForAllBackgroundImage__009d9 {
+html.full-motion.show-redesigned-icons.theme-dark.platform-web.font-size-16 body div#app-mount.appMount_fae9dd div.appAsidePanelWrapper__714a6 div.notAppAsidePanel__9d124 div.app_b1f720 div.app_de4237 div.layers__1c917.layers_a23c37 div.layer__2efaa div.standardSidebarView__1129a div.contentRegion__0bec1 div.contentTransitionWrap_c5bc61 div.contentRegionScroller__86c79.contentRegionShownSidebar__610ed.auto_a48086.scrollerBase_dc3aa9 div:nth-child(3) {
     display: none
 }
 
@@ -136,7 +143,3 @@
 .contentContainer__3b9e6 {
     padding-top: 40px
 }
-
-
-
-
