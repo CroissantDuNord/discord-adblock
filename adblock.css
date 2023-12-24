@@ -8,12 +8,12 @@
 
 /* Chat view blocks */
 /* Nitro tab */
-#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div.app_de4237 > div.layers__1c917.layers_a23c37 > div.layer__2efaa.baseLayer__8fda3 > div.container__037ed > div.base__3e6af > div.content__4bf10 > div.sidebar_ded4b5 > nav > div.scroller__4b984.thin_b1c063.scrollerBase_dc3aa9.fade_ba0fa0 > ul.content__23cab > li.channel_c21703.container__8759a:nth-of-type(2) {
+[data-list-item-id*="___nitro"] {
     display: none;
 }
 
 /* Store tab */
-#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div.app_de4237 > div.layers__1c917.layers_a23c37 > div.layer__2efaa.baseLayer__8fda3 > div.container__037ed > div.base__3e6af > div.content__4bf10 > div.sidebar_ded4b5 > nav > div.scroller__4b984.thin_b1c063.scrollerBase_dc3aa9.fade_ba0fa0 > ul.content__23cab > li.channel_c21703.container__8759a:nth-of-type(4) {
+[data-list-item-id*="___shop"] {
     display: none;
 }
 
