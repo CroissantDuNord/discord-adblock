@@ -29,12 +29,14 @@
 #message-actions-add-reaction-1 {
     display: none
 }
+/* (These rules are commented because they don't seem to be necessary anymore, and are therefore redundant. However they're kept here in case the super reaction button when hovering over posts comes back.)
 #app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div.app_de4237 > div.layers__1c917.layers_a23c37 > div > div > div > div > div.chat__52833 > div.content__1a4fe > div > div.chatContainer__23434 > main > div.messagesWrapper_ea2b0b.group-spacing-0 > div > div.scrollerContent_c73942.content__23cab > ol > li > div > div.buttonContainer_dd4b62 > div.buttons__3766a.container__9d616 > div.buttonsInner_bca8fa.wrapper_c727b6 > div.button_d553e5:nth-of-type(2) {
     display: none
 }
 #app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div.app_de4237 > div.layers__1c917.layers_a23c37 > div > div > div > div > div.chat__52833 > div.content__1a4fe > div > div.chatContainer__23434 > main > div.messagesWrapper_ea2b0b.group-spacing-0 > div.scroller__1f96e.customTheme_db4d28.auto_a48086.scrollerBase_dc3aa9.disableScrollAnchor_e73c0f.managedReactiveScroller__79923 > div.scrollerContent_c73942.content__23cab > ol.scrollerInner__059a5 > li > div > div.container_dbadf5 > div.reactions_b8dc93 > div:nth-last-child(1) {
     display: none
 }
+*/
 
 /* Settings blocking */
 /* Banner ad */
