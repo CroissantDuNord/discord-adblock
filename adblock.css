@@ -18,7 +18,7 @@
 }
 
 /* Gift button */
-#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers__1c917.layers_a23c37 > div > div > div > div > div.chat__52833 > div.content__1a4fe > div > div.chatContainer__23434 > main > form > div > div.scrollableContainer__33e06.themedBackground__6b1b6 > div > div.buttons_ce5b56 > button:nth-last-child(5) {
+#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers__1c917.layers_a23c37 > div > div > div > div > div.chat__52833 > div.content__1a4fe > div > div.chatContainer__23434 > main > form > div > div.scrollableContainer__33e06.themedBackground__6b1b6 > div > div.buttons_ce5b56 > button.button_afdfd9.lookBlank__7ca0a.colorBrand_b2253e.grow__4c8a4 {
     display: none
 }
 
