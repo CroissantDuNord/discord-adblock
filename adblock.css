@@ -149,6 +149,6 @@ html.full-motion.show-redesigned-icons.theme-dark.platform-web.font-size-16 body
 }
 
 /* terms of service popup */
-[class^=layer_]:has([class^=focusLock]){
+[class^=layer_]:has([class^=focusLock]),.withLayer__29ace.backdrop__1a911{
     display:none;
 }
