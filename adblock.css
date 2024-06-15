@@ -17,7 +17,7 @@
     display: none;
 }
 
-/* Store popup ads - Thank you zzaria */
+/* Store popup ads */
 [id^=popout]:has([class^=buttonContainerVertical]) {
     display:none;
 }
@@ -146,4 +146,9 @@ html.full-motion.show-redesigned-icons.theme-dark.platform-web.font-size-16 body
 /* Re-center the text */
 .contentContainer__3b9e6 {
     padding-top: 40px
+}
+
+/* desktop app ad */
+[class^=notice__]:has(i[class^=iconApple]){
+    display:none;
 }
