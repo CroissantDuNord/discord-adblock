@@ -149,6 +149,6 @@ html.full-motion.show-redesigned-icons.theme-dark.platform-web.font-size-16 body
 }
 
 /* desktop app ad */
-[class^=notice__]:has(i[class^=iconApple]){
+[class^=notice_]:has(i[class^=iconApple]){
     display:none;
 }
