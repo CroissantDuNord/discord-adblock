@@ -1,6 +1,6 @@
 /* ==UserStyle==
-@name           discord.com - déc. 2023
-@namespace      github.com/openstyles/stylus
+@name           Discord AdBlock
+@namespace      https://github.com/CroissantDuNord/discord-adblock
 @version        1.0.0
 @description    Removes annoying Nitro upsells from Discord.
 @author         CroissantDuNord & contributors
@@ -64,22 +64,6 @@ div[class*=channelTextArea_]>div>div>div[class*=buttons_]>button[aria-haspopup=d
 }
 #message-actions-add-reaction-1 {
     display: none;
-}
-
-/* Remove avatar decorations */
-svg[class*=avatarDecoration_] {
-  display: none;
-}
-img[class*=avatarDecoration_] {
-  display: none;
-}
-
-/* Remove profile decorations */
-div[class*=profileEffects] {
-  display: none;
-}
-div[class*=userProfileModalInner]>header>svg>foreignObject>div[class*=bannerPremium] {
-  display: none;
 }
 
 /* Settings blocking */
@@ -156,16 +140,6 @@ If anyone knows a better way to block precisely the billing info settings, pleas
     display: none;
 }
 
-/* Server boost progress bar */
-ul > li:has(div[data-list-item-id*=channels___boosts-]) {
-    display: none;
-}
-
-/* Server booster icon */
-svg[class*=premiumIcon_] {
-    display: none;
-}
-
 /* Shop AD Profile */
 html.full-motion.show-redesigned-icons.theme-dark.platform-web.font-size-16 body div#app-mount.appMount_fae9dd div.appAsidePanelWrapper__714a6 div.notAppAsidePanel__9d124 div.app_b1f720 div.app_de4237 div.layers__1c917.layers_a23c37 div.layer__2efaa div.standardSidebarView__1129a div.contentRegion__0bec1 div.contentTransitionWrap_c5bc61 div.contentRegionScroller__86c79.contentRegionShownSidebar__610ed.auto_a48086.scrollerBase_dc3aa9 div:nth-child(3) {
     display: none;
@@ -173,11 +147,6 @@ html.full-motion.show-redesigned-icons.theme-dark.platform-web.font-size-16 body
 
 /* Custom Join Sound AD (No discord I dont want to play a random meme sound when I join a call)*/
 #popout_4611 > div > div > div.gridNoticeWrapper__548b9 > div {
-    display: none;
-}
-
-/* Nitro Icon Sever */
-#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers__1c917.layers_a23c37 > div > div > div > div > div.sidebar_ded4b5 > nav > div.container__7c79d.clickable__2d589.hasBanner_e78601.bannerVisible__191f6 > header > div > div.guildIconV2Container__53cdb {
     display: none;
 }
 

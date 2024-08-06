@@ -1,0 +1,38 @@
+/* ==UserStyle==
+@name           Discord AdBlock Extras
+@namespace      https://github.com/CroissantDuNord/discord-adblock
+@version        1.0.0
+@description    Removes extra Nitro-related objects from Discord that do not explicitly count as advertising.
+@author         Ridge & contributors
+==/UserStyle== */
+
+/* Remove avatar decorations */
+svg[class*=avatarDecoration_] {
+  display: none;
+}
+img[class*=avatarDecoration_] {
+  display: none;
+}
+
+/* Remove profile decorations */
+div[class*=profileEffects] {
+    display: none;
+}
+div[class*=userProfileModalInner]>header>svg>foreignObject>div[class*=bannerPremium] {
+    display: none;
+}
+
+/* Server booster icon */
+svg[class*=premiumIcon_] {
+    display: none;
+}
+
+/* Server boost progress bar */
+ul > li:has(div[data-list-item-id*=channels___boosts-]) {
+    display: none;
+}
+
+/* Nitro Icon Sever */
+div[class^=guildIconContainer_]:has(svg[class^=boostedGuildIconGem_]) {
+    display: none;
+}
