@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/CroissantDuNord/discord-adblock/main/media/logo.svg" width="128px" height="128px" alt="Logo">
 </p>
-<h1 align="center">Discord adblock</h1>
-<h3 align="center">The ads for discord nitro bother you, you can now delete them</h3>
+<h1 align="center">Discord AdBlock</h1>
+<h3 align="center">The ads for Discord Nitro bother you, you can now delete them</h3>
 </p>
 
 ---
@@ -31,18 +31,21 @@ Extra adblock list to remove profile customisations and Nitro-related badges:
 - [x] Shop
 - [x] Nitro Icon (Server)
 - [x] Super Reaction   
-- [x] Message Limit Warning (New AD)
+- [x] Message Limit Warning
+- [x] App Launcher Icons
 ---
 ## 🛡️ Blocked Elements (Extras list)
 - [x] Profile Customisations (Avatar frames, effects, etc.)
 - [x] Server Booster Badges
 - [x] Server Boost Progress Bar
 - [x] Server Boost Icon
+- [x] Quests icons
+- [x] Activity List in guild members list
 ---
 
 ## ❓ Installation Guide
 
-You need a Custom Client (Like [BetterDiscord](https://betterdiscord.app/) or [Vencord (Recomended)](https://vencord.dev))
+1. You need a Custom Client (Like [BetterDiscord](https://betterdiscord.app/) or [Vencord (Recomended)](https://vencord.dev))
 
 - **BetterDiscord:**
 Open the CustomCSS Tab in the user settings
@@ -50,6 +53,7 @@ Open the CustomCSS Tab in the user settings
 In the Vencord section chose "Themes", then open the QuickCSS File
 
 2. Copy & Paste this css into the Custom CSS input *(This will load adblock.css from here, this mean that it will auto-update from this repo)*
+
 For main adblock:
 ```css
 @import url("https://croissantdunord.github.io/discord-adblock/adblock.css");
@@ -61,9 +65,9 @@ For main adblock:
 
 ![image](https://github.com/CroissantDuNord/discord-adblock/assets/79372025/a5cef664-6bf4-4740-bed7-b66a22b735dc)
 
-3. Done, check the profile tab to see if there is no Ads 👍
+3. Done. Enjoy a slightly less frustrating Discord experience. 👍
 
 ## Issues / Idea
 
-You can report your issues / idea, in the issues tab
+You can report any problems and suggest ideas by [opening an issue](https://github.com/CroissantDuNord/discord-adblock/issues).
 
