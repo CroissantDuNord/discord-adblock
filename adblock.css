@@ -37,8 +37,11 @@ div[class*="qualitySettingsContainer"] div[class*="settingsGroup"]:last-child:ha
 }
 
 /* Chat view blocks */
-/* App launcher icons (including AI apps on image hover) */
+/* App launcher icons (chat box, guild menu, AI apps on image hover) */
 div[class^=channelAppLauncher_] {
+  display: none;
+}
+div[id="guild-header-popout-application-directory"] {
   display: none;
 }
 div[class^=hoverButton_]:has(g[transform="matrix(2.700000047683716,0,0,2.700000047683716,-79.60000610351562,-81.35110473632812)"]) {
