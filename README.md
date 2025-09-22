@@ -1,4 +1,4 @@
-<p align="center">Hi, Ridge here. I'm continuing this project on <a href="https://codeberg.org/ridge/Discord-AdBlock" target="_blank">Codeberg</a> as it seems CroissantDuNords account here is inactive.</p>
+<p align="center">Hi, Ridge here. I'm continuing this project on <a href="https://codeberg.org/ridge/Discord-AdBlock" target="_blank">Codeberg</a> as it seems CroissantDuNords account here is inactive. I've been updating the project on and off with irregular intervals, but due to my distaste for using GitHub, anyone who wishes to contribute or submit issues are encouraged to use Codeberg from now on, or fork this project to keep adding to it here. Thank you.</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CroissantDuNord/discord-adblock/main/media/logo.svg" width="128px" height="128px" alt="Logo">
