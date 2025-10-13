@@ -113,3 +113,55 @@ div[class^="member__"] > div[class*="nameplated__"] > div[class^="container__"]:
 span[class^="chipletContainerInner__"]:has(img[class^="badge__"]) {
   display: none;
 }
+
+/* Global profile editor */
+/* Shop banner */
+div[class^="container__"]:has(div[class^="artContainer_"]) {
+  display: none;
+}
+
+/* Nameplate Preview */
+div[class^="nameplatePreviewSection__"] {
+  display: none;
+}
+
+div[class^="sectionsContainer_"]
+  > :is(
+    div:nth-child(4), /* avatar decoration */
+    div:nth-child(5), /* nameplate */
+    div:nth-child(6), /* profile effect */
+    div:nth-child(7), /* banner color (idk about this one) */
+    div:nth-child(9) /* server tag */
+  ) {
+    display: none;
+  }
+
+/* nitro preview thing */
+div[class^="premiumFeatureBorder__"] {
+  display: none;
+}
+
+/* nitro offer popup */
+div[class^="upsellContainer__"] {
+  display: none;
+}
+
+/* per-server profile editor */
+div[class^="upsellOverlayContainer__"] {
+  display: none;
+}
+
+/* message bar */
+div[class^="buttons__"]
+ > :is(
+  button[aria-label*="gift"], /* gift button */
+  button[aria-label*="gif"], /* gif button */
+  button[aria-label*="sticker"] /* sticker button */
+ ) {
+  display: none;
+}
+
+/* "Nitro" button */
+ul[class^="content__"] > li[class^="channel__"]:has(a[data-list-item-id*="nitro"]) {
+  display: none;
+}
