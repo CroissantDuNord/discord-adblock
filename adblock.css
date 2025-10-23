@@ -49,6 +49,11 @@ li[class^=channel_]:has(a[href="/store"]) {
     display: none;
 }
 
+/* Quests tab */ 
+li[class^=channel_]:has(a[href="/quest-home"]) { 
+    display: none; 
+}
+
 /* Store popup ads */
 [id^=popout]:has([class^=buttonContainerVertical]) {
     display:none;
@@ -147,6 +152,11 @@ If anyone knows a better way to block precisely the billing info settings, pleas
 /* Guilds blocking */
 /* Server boost button */
 #guild-header-popout > div > div:nth-child(1), #guild-header-popout > div > div:nth-child(2) {
+    display: none;
+}
+
+/* Boost goal */
+#channels > ul > div.container__0d0f9.containerWithMargin__0d0f9 {
     display: none;
 }
 
